@@ -22,4 +22,6 @@ The HTB SOC Analyst Job Path served as a solid guide in building real SOC experi
 
 ## Scereenshots and Documentation
 
-https://docs.google.com/document/d/1jYNkwpHw5wUNehN83CdLLuY8vJaNnaMp/edit?usp=sharing&ouid=114700252560349199970&rtpof=true&sd=true
+[HTB SOC Analyst Job Path Doucmentation](https://docs.google.com/document/d/1jYNkwpHw5wUNehN83CdLLuY8vJaNnaMp/edit?usp=sharing&ouid=114700252560349199970&rtpof=true&sd=true)
+
+Includes notes and screenshots on the different terminology, methods, frameworks, and skills learned throught the course.
